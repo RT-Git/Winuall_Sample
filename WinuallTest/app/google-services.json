@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "807133144225",
+    "firebase_url": "https://winualltest.firebaseio.com",
+    "project_id": "winualltest",
+    "storage_bucket": "winualltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807133144225:android:9417e907be22c215",
+        "android_client_info": {
+          "package_name": "com.wordpress.obliviouscode.winualltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807133144225-s4kmpcj8pj2ce5ha25vsaqba07t59t95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wordpress.obliviouscode.winualltest",
+            "certificate_hash": "B8A003C8592DE69A7DFAF4670AA8BBEF766CA603"
+          }
+        },
+        {
+          "client_id": "807133144225-9p4c6smjuo569qm1csmh7llrfm3ta55k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd5DTxCRQbPg8K9T08OPAMvfWQGxG5wf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807133144225-9p4c6smjuo569qm1csmh7llrfm3ta55k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
